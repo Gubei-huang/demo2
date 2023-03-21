@@ -3,10 +3,6 @@ server:
   servlet:
     context-path: /sso
 
-
-
-
-
 spring:
   thymeleaf:
     cache: false
